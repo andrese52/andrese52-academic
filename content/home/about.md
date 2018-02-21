@@ -21,6 +21,11 @@ weight = 5
   course = "PhD in Plant Pathology"
   institution = "Oklahoma State University"
   year = 2016
+ 
+[[education.courses]]
+  course = "Bioinformatics Certificate"
+  institution = "Oklahoma State University"
+  year = 2016 
 
 [[education.courses]]
   course = "MS in Entomology and Plant Pathology"
@@ -37,6 +42,5 @@ weight = 5
 # About
 Plant Pathologists, Bioinformatician and Postdoctoral Fellow at Oklahoma State University. I currently work on developing
 bioinformatic tools to rapidly detect plant pathogens. I use RNA and DNA shotgun sequencing to rapidly query for known and
-unknown plant pathogens. I got my Bachelor's degree in Ecuador at the Escuela de las Fuerzas Armadas ESPE and 
-moved to the United States to Pursue an MS and PhD. in Plant Pathology. I also obtained a Graduate Bioinformatics Certificate. I am interested in developing new bioinformatic tools 
-to help plant pathologists detect emerging pests. By using Next Generation Sequencing we aim to understand the appropriate conditions to successfully detect any pathogen in any plant sample.
+unknown plant pathogens. I am interested in developing innovative bioinformatic tools to help plant pathologists detect known and emerging pests.
+By using Next Generation Sequencing we aim to understand the appropriate conditions to successfully detect any pathogen in any plant sample.
