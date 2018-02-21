@@ -44,5 +44,5 @@ weight = 5
 # About
 Plant Pathologists, Bioinformatician and Postdoctoral Fellow at Oklahoma State University. I currently work with DNA/RNA sequencing data to develop
 bioinformatic tools to rapidly and accurate detect plant pathogens. I am interested in fast and innovative tools that help plant pathologists
-detect known and emerging pests.
+detecting known and emerging pests.
 By using Next Generation Sequencing we aim to understand the appropriate conditions to successfully detect any pathogen in any plant sample.
