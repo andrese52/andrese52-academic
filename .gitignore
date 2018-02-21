@@ -1,2 +1,6 @@
 public/
 .idea/
+
+#Github scripts
+git-commands.sh
+

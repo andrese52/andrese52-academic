@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Bioinformatics",
+    "Diagnostics",
+    "Ecology",
+	"Epidemiology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Plant Pathology"
+  institution = "Oklahoma State University"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MS in Entomology and Plant Pathology"
+  institution = "Oklahoma State University"
+  year = 2013
+
+[[education.courses]]
+  course = "BSc in Biotechnology"
+  institution = "Escuela de las Fuerzas Armadas ESPE"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
-
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a plant pathologists, bioinformatician and Postdoctoral Fellow at Oklahoma State University. I got my Bachelor's degree in Ecuador at the Escuela de las Fuerzas Armadas ESPE and 
+moved to the United States to Pursue an MS and PhD. in Plant Pathology. I also obtained a Graduate Bioinformatics Certificate. I am interested in developing new bioinformatic tools 
+to help plant pathologists detect emerging pests. By using Next Generation Sequencing we aim to understand the appropriate conditions to successfully detect any pathogen in any plant sample.
