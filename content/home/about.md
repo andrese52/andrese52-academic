@@ -13,7 +13,9 @@ weight = 5
     "Bioinformatics",
     "Diagnostics",
     "Ecology",
-	"Epidemiology"
+	"Epidemiology",
+	"Metagenomics",
+	"Metatranscriptomics"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -41,6 +43,6 @@ weight = 5
 
 # About
 Plant Pathologists, Bioinformatician and Postdoctoral Fellow at Oklahoma State University. I currently work on developing
-bioinformatic tools to rapidly detect plant pathogens. I use RNA and DNA shotgun sequencing to rapidly query for known and
-unknown plant pathogens. I am interested in developing innovative bioinformatic tools to help plant pathologists detect known and emerging pests.
+bioinformatic tools and DNA/RNA sequencing to rapidly detect plant pathogens. I am interested in developing innovative tools to help plant pathologists
+detect known and emerging pests.
 By using Next Generation Sequencing we aim to understand the appropriate conditions to successfully detect any pathogen in any plant sample.
