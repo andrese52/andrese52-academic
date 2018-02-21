@@ -34,7 +34,7 @@ weight = 5
  
 +++
 
-# Biography
+# About
 I am a plant pathologists, bioinformatician and Postdoctoral Fellow at Oklahoma State University. I got my Bachelor's degree in Ecuador at the Escuela de las Fuerzas Armadas ESPE and 
 moved to the United States to Pursue an MS and PhD. in Plant Pathology. I also obtained a Graduate Bioinformatics Certificate. I am interested in developing new bioinformatic tools 
 to help plant pathologists detect emerging pests. By using Next Generation Sequencing we aim to understand the appropriate conditions to successfully detect any pathogen in any plant sample.
