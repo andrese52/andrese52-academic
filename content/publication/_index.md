@@ -2,7 +2,7 @@
 title = "A new approach for detecting fungal and oomycete plant pathogens in next generation sequencing metagenome data utilising electronic probes"
 
 # Date first published.
-date = "2015"
+date = "2015-11-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Andres Espindola", "William Schneider", "Peter R. Hoyt" , "Stephen M. Marek" , "Carla Garzon"]
