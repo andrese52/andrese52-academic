@@ -5,7 +5,7 @@ title = "E-probe Diagnostic Nucleic acid Analysis (EDNA): a theoretical approach
 date = "2013-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Anthony H Stobbe", "Jon Daniels", "*Andres S Espindola*", "Ruchi Verma", "Ulrich Melcher", "Francisco Ochoa-Corona", "Carla Garzon", "Jacqueline Fletcher", "William Schneider"]
+authors = ["Anthony H Stobbe", "Jon Daniels", "**Andres S Espindola**", "Ruchi Verma", "Ulrich Melcher", "Francisco Ochoa-Corona", "Carla Garzon", "Jacqueline Fletcher", "William Schneider"]
 
 # Publication type.
 # Legend:
