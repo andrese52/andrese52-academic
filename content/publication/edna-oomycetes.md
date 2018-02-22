@@ -24,7 +24,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "A short version of the abstract."
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "https://www.inderscienceonline.com/doi/pdf/10.1504/IJDMB.2015.069422"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = ""
 caption = "My caption 😄"
 
 +++
