@@ -15,3 +15,5 @@ I've found a nice video on how to incorporate ssh keys to our github repository.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6oTzYnQY17Q
 " target="_blank"><img src="http://img.youtube.com/vi/6oTzYnQY17Q/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<iframe  title="Github ssh keys" width="480" height="390" src="http://www.youtube.com/watch?v=6oTzYnQY17Q?autoplay=1" frameborder="0" allowfullscreen></iframe>
