@@ -7,10 +7,11 @@ highlight = true
 summary= "This is a post for github advances users that don't want to type their username and password everytime a change is commited and pushed to your branch"
 +++
 
-[Previously](https://www.aespindola.com/post/git_basics/) I have explored how would be the common way of `pushing` (uploading) changes to your repository. However in many instances
-we require to test our code in linux platforms and pushing code directly from linux becomes a little annoying when we have to type our username and password every single time.
+[Previously](https://www.aespindola.com/post/git_basics/) I have explored how would be the common way of `pushing` (uploading) changes to your repository. However in many instances we require to test our code in Linux/Unix platforms.  Usually once I finish testing my code in Linux I will have to drag and drop to my current Windows repo folder and then push the changes. I have been doing this because pushing code directly from linux becomes a little annoying because I had to type my username and password every single time I push changes.
 
-I've found a nice video on how to incorporate ssh keys to our github repository.
+If you want to avoid this from the very beginning, you will have to clone your repos using ssh. By default whenever you clone a repository it is done through https and if later you want to use ssh you will require a couple of lines to change it to ssh. Personally, I cloned all my repos using ssh so I will have to go through the small coding step before I can use ssh to push changes. 
+
+I've found a nice video on how to incorporate ssh keys to our github repository once we have previously cloned our repo using https. 
 
 {{< youtube id="6oTzYnQY17Q" autoplay="false" >}}
 
