@@ -15,3 +15,9 @@ weight = 60
 
 +++
 
+I have been involved in teaching activities as a Lecturer, Teaching Assistant and Instructor of Bioinformatic workshops.
+
+- Teaching Assistant: Principles of Plant Pathology (Fall 2013 - Fall 2015)
+- Lecturer: Microbiology I and Microbiology II (2010) 
+- Instructor: Bioinformatic workshops in OSU, ESPE, INSPI.
+ 
