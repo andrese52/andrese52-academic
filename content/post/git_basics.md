@@ -4,7 +4,6 @@ date = 2017-03-03
 tags= ['git', 'bash']
 math = false
 highlight = true
-output= html_document
 summary= "This is a basic post on how to interact with github through command line"
 +++
 
