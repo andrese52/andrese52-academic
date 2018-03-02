@@ -12,8 +12,8 @@ we require to test our code in linux platforms and pushing code directly from li
 
 I've found a nice video on how to incorporate ssh keys to our github repository. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=6oTzYnQY17Q
-" target="_blank"><img src="http://img.youtube.com/vi/6oTzYnQY17Q/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-<iframe  title="Github ssh keys" width="480" height="390" src="http://www.youtube.com/watch?v=6oTzYnQY17Q?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/6oTzYnQY17Q?autoplay=1"
+  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="Github ssh keys Linux"></iframe>
+</div>
