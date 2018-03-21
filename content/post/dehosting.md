@@ -14,5 +14,13 @@ Removing host sequences to alleviate the time consuming assembly tasks is helpfu
 3. Bedtools to split paired ends.
 
 
-# 1. Bowtie2 mapping to the host
-{{< youtube id="6oTzYnQY17Q" autoplay="false" >}}
+## 1. Bowtie2 mapping to the host
+	a. Create bowtie2 index database (host_DB) from host reference genome
+	```bash
+	bowtie2-build host_genome.fna host_DB
+	```
+	b. bowtie2 mapping against host sequence database, keep both mapped and unmapped reads (paired-end reads)
+	```bash
+	bowtie2 -x host_DB -1 SAMPLE_r1.fastq -2 SAMPLE_r2.fastq -S SAMPLE_mapped_and_unmapped.sam
+	```
+	
