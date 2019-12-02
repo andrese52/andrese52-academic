@@ -8,23 +8,23 @@ summary= "Analyzing metagenomic or metatranscriptomic sequencing datasets can ca
 +++
 
 
-Removing host sequences to alleviate the time consuming assembly tasks is helpful when the host genome is available. There are a few steps that need to be followed to achieve the "dehosting" process. 
+Removing host sequences to alleviate the time consuming assembly tasks is helpful when the host genome is available. There are a few steps that need to be followed to achieve the "dehosting" process.
 
 
 ## 1. Bowtie2 mapping to the host
-Mapping all reads to the host genome allows to know which are the reads that need to be eliminated. 
+Mapping all reads to the host genome allows to know which are the reads that need to be eliminated.
 ##### a.  Create bowtie2 index database (host_DB) from host reference genome
-```bash
+```bash=1
 bowtie2-build host_genome.fna host_DB
 ```
 ##### b. bowtie2 mapping against host sequence database, keep both mapped and unmapped reads (paired-end reads)
-```bash
+```bash=1
 bowtie2 -x host_DB -1 SAMPLE_r1.fastq -2 SAMPLE_r2.fastq -S SAMPLE_mapped_and_unmapped.sam
 ```
 
 ##### c.  Convert file `.sam` to `.bam`
 
-```bash
+```bash=1
 samtools view -bS SAMPLE_mapped_and_unmapped.sam > SAMPLE_mapped_and_unmapped.bam
 ```
 
